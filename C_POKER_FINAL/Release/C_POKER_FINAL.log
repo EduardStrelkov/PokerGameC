@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\ste20\OneDrive\Desktop\РЕЗЮМЕ\prog\C_POKER_FINAL\C_POKER_FINAL\main.c(1560,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 59 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  C_POKER_FINAL.vcxproj -> C:\Users\ste20\OneDrive\Desktop\РЕЗЮМЕ\prog\C_POKER_FINAL\Release\C_POKER_FINAL.exe
